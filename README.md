@@ -109,7 +109,7 @@ The analysis was first performed using SQL to extract key insights such as:
 
 ## 📷 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+![Dashboard Preview](Dashboard_preview.png)
 
 ---
 
