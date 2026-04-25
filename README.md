@@ -11,11 +11,13 @@ The objective was to combine **SQL-based analysis with Power BI visualization** 
 ## 📁 Dataset
 
 * Source: Brazilian E-commerce Public Dataset (Olist)
-* Includes:
+  
+The following datasets were used for analysis:
 
-  * Customer demographics
-  * Order transactions
-  * Purchase timestamps
+- `olist_orders_dataset.csv` – Contains order details and timestamps  
+- `olist_customers_dataset.csv` – Contains customer information and location data  
+
+These datasets were used for SQL analysis and Power BI dashboard creation.
 
 ---
 
